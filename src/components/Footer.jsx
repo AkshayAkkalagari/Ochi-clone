@@ -33,7 +33,7 @@ function Footer() {
             <a className="block text-lg font-light" href="#">Instagram</a>
             <a className="block text-lg font-light" href="#">Twitter</a>
         </div>
-        <div className='navs gap-5 font-["Neue-Montreal"] mt-[-100px] ml-[500px]'>
+        <div className='navs gap-5 font-["Neue-Montreal"] mt-[-100px] ml-[450px]'>
             <a className="block text-lg font-light" href="#">Home</a>
             <a className="block text-lg font-light" href="#">Services</a>
             <a className="block text-lg font-light" href="#">Insights</a>
